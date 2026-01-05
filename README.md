@@ -13,12 +13,6 @@ This project demonstrates foundational network administration supporting endpoin
 - Configure and validate DHCP and basic DNS services  
 - Maintain an asset register to track devices, roles, hostnames, and network context  
 
-## Future Enhancements
-
-- Introduce a virtualized lab server to demonstrate server hosting concepts and support additional infrastructure services  
-- Implement a VPN solution to enable secure remote access and simulate off-site connectivity scenarios  
-- Add network monitoring or health checks to increase visibility into device availability and performance (PowerShell)  
-
 
 ## Scope of Work
 
@@ -107,3 +101,10 @@ Endpoints have predictable, reserved IP addressing with verified DNS resolution.
 The addressing plan supports stable identity services, server roles, and future lab growth.
 
 </details>
+
+
+## Future Enhancements
+
+- Introduce a virtualized lab server to demonstrate server hosting concepts and support additional infrastructure services  
+- Implement a VPN solution to enable secure remote access and simulate off-site connectivity scenarios  
+- Add network monitoring or health checks to increase visibility into device availability and performance (PowerShell)  
