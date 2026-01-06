@@ -25,13 +25,13 @@ Endpoint documentation, subnet consistency, Layer 2/3 connectivity testing
 
 - Connected a **TP-Link 8-port Gigabit desktop switch** to the router and lab endpoints:
 
-- **Port 1** (uplink): Router  
-- **Port 2:** OptiPlex desktop  
-- **Port 3:** ThinkPad laptop  
+  - **Port 1** (uplink): Router  
+  - **Port 2:** OptiPlex desktop  
+  - **Port 3:** ThinkPad laptop  
 
-Observed green link/activity LEDs on all three ports, indicating active **1 Gbps Ethernet connections**.
+- Observed green link/activity LEDs on all three ports, indicating active **1 Gbps Ethernet connections**.
 
-Ran `ipconfig /all` on both endpoints to document host identity, IP addressing, and DHCP lease details.
+- Ran `ipconfig /all` on both endpoints to document host identity, IP addressing, and DHCP lease details.
 
 **Desktop**
 - Hostname: `Rob-Desktop`
