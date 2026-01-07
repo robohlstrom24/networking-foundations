@@ -98,6 +98,21 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 </details>
 
+### Asset Register (Lightweight) & IP Addressing Scheme
+
+<details>
+<summary>Asset Register</summary>
+
+### Asset Register (Lightweight)
+
+| Device  | Model                  | Hostname     | CPU                | RAM        | Storage            | Network                               | Notes                          |
+|--------|------------------------|--------------|--------------------|------------|--------------------|----------------------------------------|--------------------------------|
+| Desktop | Dell Optiplex 5060 SFF | rob-desktop  | Intel Core i5-8500 | 32 GB DDR4 | 1 TB M.2 NVMe SSD  | TP-Link WiFi 6E Intel AX210 PCIe       |                                |
+| Laptop  | Lenovo ThinkPad T480  | rob-laptop   | Intel Core i7-8550U | 16 GB DDR4 | 256 GB Samsung MZ7LN | Intel Dual Band AC 8265               | Portable lab endpoint          |
+| Switch  | TP-Link TL-SG108      | –            | –                  | –          | –                  | 8 Gigabit Ethernet ports              | Layer 2 access switch (unmanaged) |
+| Router  | TP-Link Archer AX1800 | –            | –                  | –          | –                  | Gigabit WAN, WiFi 6                   | NAT, stateful firewall, DHCP server, DNS forwarder |
+
+</details>
 
 ## Future Enhancements
 
