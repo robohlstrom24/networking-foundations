@@ -131,4 +131,4 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 - Introduce a virtualized lab server to demonstrate server hosting concepts and support additional infrastructure services  
 - Implement a VPN solution to enable secure remote access and simulate off-site connectivity scenarios  
-- Add network monitoring or health checks to increase visibility into device availability and performance (PowerShell)  
+- Add network monitoring and health checks to increase visibility into device availability and performance (PowerShell)  
