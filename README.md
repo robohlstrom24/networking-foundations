@@ -123,11 +123,12 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 | Desktop           | rob-desktop     | 192.168.0.158       | 54-BF-64-7B-CE-20     | 255.255.255.0     | 192.168.0.1   | Windows 11 Pro   | DHCP reservation                           |
 | Laptop            | rob-laptop      | 192.168.0.63        | 8C-16-45-3E-DA-64     | 255.255.255.0     | 192.168.0.1   | Windows 11 Home  | DHCP reservation                           |
 | Router            | edge-gateway    | 192.168.0.1         | 74-FE-CE-37-46-01     | 255.255.255.0     | 192.168.0.1   | TP-Link Firmware | Default gateway, DHCP/DNS server           |
-| Switch            | –               | –                   | –                     | 255.255.255.0     | 192.168.0.1   | unmanaged        | Unmanaged Layer-2 switch (no management IP) |
+| Switch            | –               | –                   | –                     | 255.255.255.0     | 192.168.0.1   | Unmanaged        | Unmanaged Layer-2 switch (no management IP) |
 | DHCP Scope        | –               | 192.168.0.100–199   | –                     | 255.255.255.0     | 192.168.0.1   | –                | Reserved for dynamic clients               |
 | Broadcast         | –               | 192.168.0.255       | –                     | 255.255.255.0     | –             | –                | Sends to all hosts on subnet               |
 
 </details>
+
 ## Future Enhancements
 
 - Introduce a virtualized lab server to demonstrate server hosting concepts and support additional infrastructure services  
