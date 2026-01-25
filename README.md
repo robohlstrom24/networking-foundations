@@ -4,9 +4,9 @@
 
 ## Operational Relevance (Network Infrastructure and Connectivity)
 
-This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. An IP addressing plan is included for a single IPv4 subnet along with a lightweight asset register documenting core devices. DHCP and basic DNS services are configured to provide consistent address assignment and name resolution for networked endpoints, supporting reliable service discovery and domain authentication. The current scope is intentionally limited to networking fundamentals and designed to complement identity and directory services documented in a separate Active Directory project.
+This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. An IP addressing plan is included for a single IPv4 subnet along with a lightweight asset register documenting core devices. DHCP and basic DNS services are configured to provide consistent address assignment and name resolution for networked endpoints, supporting reliable service discovery and domain authentication. 
 
-## Job Duties (IT Operations)
+## Job Duties Demonstrated
 
 - Configure and support network infrastructure to provide reliable endpoint connectivity  
 - Document IPv4 addressing using a defined subnet, DHCP scope, and gateway configuration  
