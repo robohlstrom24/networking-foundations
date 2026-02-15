@@ -1,7 +1,5 @@
 ![1](images/networking.foundations.banner.jpg)
 
-(project in progress)
-
 ## Operational Relevance (Network Infrastructure and Connectivity)
 
 This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. An IP addressing plan is included for a single IPv4 subnet along with a lightweight asset register documenting core devices. DHCP and basic DNS services are configured to provide consistent address assignment and name resolution for networked endpoints, supporting reliable service discovery and domain authentication. 
