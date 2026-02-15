@@ -1,4 +1,4 @@
-# Home Lab
+![1](images/networking.foundations.banner.jpg)
 
 (project in progress)
 
