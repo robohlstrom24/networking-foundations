@@ -1,25 +1,16 @@
 ![1](images/networking.foundations.banner.jpg)
 
-## Operational Relevance (Network Infrastructure and Connectivity)
+## Operational Relevance 
 
-This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. An IP addressing plan is included for a single IPv4 subnet along with a lightweight asset register documenting core devices. DHCP and basic DNS services are configured to provide consistent address assignment and name resolution for networked endpoints, supporting reliable service discovery and domain authentication. 
+This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view). Troubleshooting activities are documented in a separate repository modeled after ITSM ticket-based professional suport methodologies.    
 
-## Job Duties Demonstrated
-
-- Configure and support network infrastructure to provide reliable endpoint connectivity  
-- Document IPv4 addressing using a defined subnet, DHCP scope, and gateway configuration  
-- Configure and validate DHCP and basic DNS services  
-- Maintain an asset register to track devices, roles, hostnames, and network context  
+(see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
 
-## Scope of Work
-
-### Switch Setup & Baseline Connectivity
-Endpoint documentation, subnet consistency, Layer 2/3 connectivity testing
+## Lab Set-Up
 
 <details>
-<summary>Implementation Details</summary>
-
+<summary>Switch Set-Up and Baseline Connectivity</summary>
 
 - Connected a **TP-Link 8-port Gigabit desktop switch** to the router and lab endpoints:
 
