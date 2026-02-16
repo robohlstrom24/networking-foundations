@@ -52,7 +52,6 @@ This project demonstrates foundational network administration supporting endpoin
 <details>
 <summary>DHCP Addressing Plan & Basic DNS</summary>
 
-**Router Hardening & DHCP Scope**
 - Updated router default credentials and applied latest firmware (network infrastructure hardening)
 - Configured DHCP address pool:  
   `192.168.0.100–192.168.0.199`
