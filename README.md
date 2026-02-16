@@ -49,12 +49,8 @@ This project demonstrates foundational network administration supporting endpoin
 
 </details>
 
-### DHCP Addressing Plan & Basic DNS
-Router hardening, IP addressing strategy, DHCP scope/reservations, DNS configuration/validation
-
 <details>
-<summary>Implementation Details</summary>
-
+<summary>DHCP Addressing Plan & Basic DNS</summary>
 
 **Router Hardening & DHCP Scope**
 - Updated router default credentials and applied latest firmware (network infrastructure hardening)
@@ -85,10 +81,8 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 </details>
 
-### Asset Register (Lightweight) & IP Addressing Scheme
-
 <details>
-<summary>Asset Register</summary>
+<summary>Lightweight Asset Register</summary>
 
 | Device  | Model                  | Hostname     | CPU                | RAM        | Storage            | Network                               | Notes                          |
 |--------|------------------------|--------------|--------------------|------------|--------------------|----------------------------------------|--------------------------------|
