@@ -109,6 +109,12 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 </details>
 
+## Tier-1 IT Support Tasks
+
+
+## Tier-2 IT Support Tasks
+
+
 ## Future Enhancements
 
 - Introduce a virtualized lab server to demonstrate server hosting concepts and support additional infrastructure services  
