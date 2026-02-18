@@ -120,11 +120,11 @@ Scenario: Newly deployed or reconfigured workstation loses Internet connectivity
 ____________________________________________
 ![2](images/NoInternet1/(2)root.cause.png)
 _____________________________________________
-![3](images/NoInternet1/(3).remediation.png)
+![3](images/NoInternet1/(3)remediation.png)
 ____________________________________________
 ![4](images/NoInternet1/(4)resolution.png)
 ______________________________________________
-![5](images/NoInternet1/(5).success.png)
+![5](images/NoInternet1/(5)success.png)
 
 </details>
 
