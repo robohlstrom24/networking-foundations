@@ -114,7 +114,7 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 <details>
   <summary> No Internet Connectivity - Misconfigured Static IP </summary>
 
-Scenario: Newly deployed or reconfigured workstation loses Internet connectivity due to static IP address assignment instead of DHCP.
+## Scenario: Newly deployed or reconfigured workstation loses Internet connectivity due to static IP address assignment instead of DHCP.
 
 ![1](images/NoInternet1/(1)no.internet.png)
 ____________________________________________
