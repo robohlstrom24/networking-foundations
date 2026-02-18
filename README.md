@@ -129,7 +129,9 @@ _____________________________________________________
 ______________________________________________________
 ![5](images/address-conflict/(6)root.cause.png)
 
-</details)
+See ITSM-style troubleshooting ticket T-0010 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
+
+</details>
 
 ## Future Enhancements
 
