@@ -111,6 +111,22 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 ## Tier-1 IT Support Tasks
 
+<details>
+  <summary> No Internet Connectivity - Misconfigured Static IP </summary>
+
+Scenario: Newly deployed or reconfigured workstation loses Internet connectivity due to static IP address assignment instead of DHCP.
+
+![1](images/NoInternet1/(1)no.internet.png)
+____________________________________________
+![2](images/NoInternet1/(2)root.cause.png)
+_____________________________________________
+![3](images/NoInternet1/(3).remediation.png)
+____________________________________________
+![4](images/NoInternet1/(4)resolution.png)
+______________________________________________
+![5](images/NoInternet1/(5).success.png)
+
+</details>
 
 ## Tier-2 IT Support Tasks
 
