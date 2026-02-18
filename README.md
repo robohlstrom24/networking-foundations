@@ -2,7 +2,7 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view). Troubleshooting activities are documented in a separate repository modeled after ITSM ticket-based professional suport methodologies.    
+This project demonstrates foundational network administration supporting endpoint connectivity and identity services in a simulated small-office environment. Proficiency with Tier-1 and Tier-2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view). Troubleshooting activities are documented in a separate repository modeled after ITSM ticket-based professional suport methodologies.    
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
