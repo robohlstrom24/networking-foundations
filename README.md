@@ -133,7 +133,7 @@ ______________________________________________
 <details> 
 <summary> Troubleshooting IP Address Conflict</summary>
 
-Scenario: A newly installed conference room PC was configured with a static IP address that falls within the office's DHCP scope. DHCP later assigned the same address to another endpoint from the available IP pool, creating a duplicate IP conflict that disrupted Internet connectivity. 
+## Scenario: A newly installed conference room PC was configured with a static IP address that falls within the office's DHCP scope. DHCP later assigned the same address to another endpoint from the available IP pool, creating a duplicate IP conflict that disrupted Internet connectivity. 
 
 ![1](images/address-conflict/(2)no.internet.VM2.png)
 ____________________________________________________
