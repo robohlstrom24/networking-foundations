@@ -114,6 +114,22 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 
 ## Tier-2 IT Support Tasks
 
+<details> 
+<summary> Troubleshooting IP Address Conflict</summary>
+
+Scenario: A newly installed conference room PC was configured with a static IP address that falls within the office's DHCP scope. DHCP later assigned the same address to another endpoint from the available IP pool, creating a duplicate IP conflict that disrupted Internet connectivity. 
+
+![1](images/address-conflict/(2)no.internet.VM2.png)
+____________________________________________________
+![2](images/address-conflict/(3)VM.ping.fail.2.png)
+_____________________________________________________
+![3](images/address-conflict/(4)event.viewer2.png)
+_____________________________________________________
+![4](images/address-conflict/(5)duplicate.identified.png)
+______________________________________________________
+![5](images/address-conflict/(6)root.cause.png)
+
+</details)
 
 ## Future Enhancements
 
