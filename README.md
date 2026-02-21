@@ -147,10 +147,12 @@ ______________________________________________
   
   ![4](images/DNS/DNS-fix1.png)
   _________________________________
-  **Resolution: Successful DNS resolution**
+  
+  **Resolution:**
   ![5](images/DNS/DNS-fix2.png)
   
 </details>
+
 ## Tier-2 IT Support Tasks
 
 <details> 
