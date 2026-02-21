@@ -130,15 +130,24 @@ ______________________________________________
 
 <details>
   <summary> Can't reach website - Misconfigured DNS</summary>
-
+  
+**Scenario: Leftover manual DNS from VPN or previous network configuration causes website unreachability.** 
+  
   ![1](images/DNS/DNS-break1.png)
   _______________________________
+  **Diagnosis: invalid DNS server identified (10.10.10.10)**
+  
   ![2](images/DNS/DNS-break2.png)
   _______________________________
+  **Diagnosis: ping successful, DNS resolution unsuccessful**
+  
   ![3](images/DNS/DNS-break3.png)
   _________________________________
+  **Remediation: DNS set to configure automatically**
+  
   ![4](images/DNS/DNS-fix1.png)
   _________________________________
+  **Resolution: Successful DNS resolution**
   ![5](images/DNS/DNS-fix2.png)
   
 </details>
