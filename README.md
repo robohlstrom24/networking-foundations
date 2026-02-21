@@ -114,7 +114,7 @@ Released and renewed DHCP leases on both hosts and confirmed that each endpoint 
 <details>
   <summary> No Internet Connectivity - Misconfigured Static IP </summary>
 
-## Scenario: Newly deployed or reconfigured workstation loses Internet connectivity due to static IP address assignment instead of DHCP.
+**Scenario: Newly deployed or reconfigured workstation loses Internet connectivity due to static IP address assignment instead of DHCP.**
 
 ![1](images/NoInternet1/(1)no.internet.png)
 ____________________________________________
@@ -128,6 +128,20 @@ ______________________________________________
 
 </details>
 
+<details>
+  <summary> Can't reach website - Misconfigured DNS</summary>
+
+  ![1](images/DNS/DNS-break1.png)
+  _______________________________
+  ![2](images/DNS/DNS-break2.png)
+  _______________________________
+  ![3](images/DNS/DNS-break3.png)
+  _________________________________
+  ![4](images/DNS/DNS-fix1.png)
+  _________________________________
+  ![5](images/DNS/DNS-fix2.png)
+  
+</details>
 ## Tier-2 IT Support Tasks
 
 <details> 
