@@ -129,7 +129,7 @@ ______________________________________________
 </details>
 
 <details>
-  <summary> Can't reach website - Misconfigured DNS</summary>
+  <summary> Can't Reach Website - Misconfigured DNS</summary>
   
 **Scenario: Leftover manual DNS from VPN or previous network configuration causes website unreachability.** 
   
